@@ -1,5 +1,6 @@
 {
   "name": "my-electron-project",
+  "description": "my first electron app",
   "version": "1.0.0",
   "main": "main.js",
   "license": "MIT",
